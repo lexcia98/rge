@@ -1,0 +1,27 @@
+{
+  "name": "rge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jdsmith2816/rge.git",
+  "author": "jdsmith2816 <jdsmith2816@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest --testRunner='jest-circus/runner' --outputFile='jest.result.json' --json",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-markdown-pdf": "^8.0.0",
+    "gulp-zip": "^5.0.1",
+    "markdown-pdf": "^10.0.0",
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {
+    "gulp-execa": "^2.0.0",
+    "jest": "^25.1.0",
+    "jest-circus": "^25.1.0"
+  }
+}
