@@ -3,7 +3,7 @@
 - [Changelog](#changelog)
   - [2.0.10: Mod Updates](#2010-mod-updates)
 
-## 2.0.10: Initial Release
+## 2.0.10: Mod Updates
 
 **Released at**: `16.05.2020`
 
