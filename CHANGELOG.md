@@ -1,7 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [2.0.10: Initial Release](#2010-initial-release)
+  - [2.0.10: Mod Updates](#2010-mod-updates)
 
 ## 2.0.10: Initial Release
 
