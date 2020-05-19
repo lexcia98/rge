@@ -7,7 +7,7 @@
 
 ## 2.0.12: Mod Updates
 
-**Released at**: `18.05.2020`
+**Released at**: `19.05.2020`
 
 **Info**:
 
