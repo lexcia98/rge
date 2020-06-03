@@ -28,7 +28,6 @@
   - [Followers](#followers)
   - [Audio and Weather](#audio-and-weather)
   - [New Equippables](#new-equippables)
-  - [ENB: Aequinoctium](#enb-aequinoctium)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [CGO](#cgo)
   - [Follower Framework](#follower-framework)
@@ -271,10 +270,6 @@ The full Enigma series minus Disciple of Molag Bal from [Satafinix](https://www.
 [Warmonger Armory](https://www.nexusmods.com/skyrimspecialedition/mods/17809) aims to add immersion to your Skyrim experience adding new lore friendly Armors, Weapons and Clothes for both Vanilla Game and DLCs. All the added content is inspired from the classic Elder Scrolls Archetypes and is made with compatibility in mind.
 
 [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305) is a combined and continued version of Common Clothes and Brigandage. It features 51 new armors and 80 new clothes, created by Franklin Zunge. The clothes are worn by the common people of Skyrim: Farmers, merchants, miners, patrons, workers and some of the wealthier citizens. They can also be bought at Radiant Raiment. The armors are worn by bandits. Since all new armors cover the whole body, half-naked bandits chilling in the cold climate of Skyrim are almost completely eliminated. The armors can be improved at a workbench, but they cannot be crafted or bought.
-
-### ENB: Aequinoctium
-
-[Aequinoctium](https://www.nexusmods.com/skyrimspecialedition/mods/16008) is an ENB preset for Aequinoctium - Weathers and Seasons with a balanced color correction while keeping a very pleasant and vivid look.
 
 ## In-Game MCM Options
 
