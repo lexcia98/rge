@@ -314,7 +314,7 @@ Either click 'Begin Your Adventure' or close the MCM menus and hit the 'enter' k
 
 Using [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) you can create a stunning looking character.
 
-RGE currently ships with a preset for the Nord Female that makes your character resemble Linkle from Hyrule Warriors. We plan to add a Link and a Ganon preset as well. Thanks Frenchy!
+RGE currently ships with a preset for the Nord Female that makes your character resemble Linkle from Hyrule Warriors.
 
 ## Getting Started in Game
 
