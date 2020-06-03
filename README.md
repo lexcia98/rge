@@ -260,7 +260,7 @@ In addition to the above custom followers all of the vanilla followers have been
 
 The full Enigma series minus Disciple of Molag Bal from [Satafinix](https://www.nexusmods.com/skyrimspecialedition/users/21706239?tab=user+files) is used to overhaul dragonic and daedric voices. While other odds and ends update draugr voices, skeleton sounds and the like.
 
-[Aequinoctium - Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/15884) is a soft, fantasy/realistic hybrid weather overhaul featuring seasonal weathers, shorter days during winter and interior rain sounds. Aequinoctium strongly emphasizes the visuals with each season having their own looks and feels, making the experience fresh every season.
+[Picturesque](https://www.nexusmods.com/skyrimspecialedition/mods/32364) is a graphical overhaul consisting of a brand new weathers mod along with an ENB preset as companion with a heavy focus on consistency and as few flaws as possible such as matching grass to distant terrain, no horizon seams, decently looking tree LOD. Night-eye, fade to black and other imagespace modifiers are also supported
 
 ### New Equippables
 
