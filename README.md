@@ -336,7 +336,6 @@ Have fun!
   - Disable `Better Container Controls`
   - Reference [The Ultimate Control Scheme](https://www.nexusmods.com/skyrimspecialedition/mods/29381) for controller layout.
   - Due to TUDM only supporting 4way dodging on gamepad we use [antimicro](https://sourceforge.net/projects/antimicro.mirror/) to enable 8way dodging.  Download it and [setup your left stick to output WASD](https://i.imgur.com/hSgdwQc.png).
-  - The POV switch has been removed to free up right-stick-click for the lock-on mod.  Either use the 3CPO MCM to force third person always or setup a button for it in the main skyrim control menu.
   - Alternatively... disable the `RGE - Controlmap` mod and reset your controls in the main skyrim controls menu then configure everything as you like from scratch.
 - My character is stuck dodging
   - This happens occasionally on load but rarely in gameplay. Press 'G' to fix it.
