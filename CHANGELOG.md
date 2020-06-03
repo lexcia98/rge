@@ -1,12 +1,35 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [2.2.0: Update Installer](220-update-installer)
   - [2.1.0: Mod Updates](#210-mod-updates)
   - [2.0.14: Mod Updates](#2014-mod-updates)
   - [2.0.13: Mod Updates](#2013-mod-updates)
   - [2.0.12: Mod Updates](#2012-mod-updates)
   - [2.0.11: Mod Updates](#2011-mod-updates)
   - [2.0.10: Mod Updates](#2010-mod-updates)
+  
+## 2.2.0: Update Installer
+
+Ownership Transfer to DoubleDog
+
+**Released at**: `02.06.2020`
+
+**Info**:
+
+Make a save in an INTERIOR before upgrading and then
+clean your save.  Alternatively... make a new character
+or don't upgrade.
+
+**Changes**:
+
+- Issues
+  - Fixed
+    - Inferno meshes fixed
+
+- Mods
+  - Removed
+    - Ultimate Dragons
 
 ## 2.1.0: Mod Updates
 
