@@ -1,7 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [2.2.0: Update Installer](220-update-installer)
+  - [2.2.0: Update Installer](#220-update-installer)
   - [2.1.0: Mod Updates](#210-mod-updates)
   - [2.0.14: Mod Updates](#2014-mod-updates)
   - [2.0.13: Mod Updates](#2013-mod-updates)
