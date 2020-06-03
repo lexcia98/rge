@@ -216,26 +216,26 @@ RGE comes with a massive merge of housing cities towns and villages that overhau
 
 ### NPC Retextures
 
-I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680), [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) and [Pandorable's Black-Briar Ladies](https://www.nexusmods.com/skyrimspecialedition/mods/33731) as my goto NPC retextures.
+I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680), and [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) as my goto NPC retextures.
 
 The Bijin lineup with [Bijin Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [Bijin NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) and [Bijin Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825) fills the gaps that Pandorable's mods leave.
 
-[The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) retextures some Men in Skyrim. I handpicked NPCs from [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376) and [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247). The rest is covered by [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291) and [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789). [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) is the base for all elves.
+[The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) retextures some Men in Skyrim. I handpicked NPCs from [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247). The rest is covered by [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291). [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) is the base for all elves.
 
 The priority looks like this (similar to MO2, the ones at the bottom overwrites the ones at the top):
 
 1. Ethereal Elven Overhaul
-2. Fresh Faces
-3. Diversity
-4. Kalilies NPCs
-5. The Ordinary Women
-6. The Men of Winter
-7. Bijin NPCs
-8. Bijin Warmaidens
-9. Bijin Wives
-10. Pandorable's NPCs
-11. Pandorable's NPCs - Dragonborn
-12. Pandorable's NPCs - Dawnguard
+2. Diversity
+3. Kalilies NPCs
+4. The Men of Winter
+5. Metalsabers Beautiful Orcs of Skyrim
+6. Pandorable's NPCs
+7. Pandorable's NPCs - Dragonborn
+8. Pandorable's NPCs - Dawnguard
+9. Bijin NPCs
+10. Bijin Warmaidens
+11. Bijin Wives
+12. Males of Skyrim
 13. Simple Children
 
 ### Followers
