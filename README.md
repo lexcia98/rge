@@ -351,7 +351,7 @@ My Setup:
 
 ### Tweaking the ENB
 
-This should always be the first thing you tweak. Disabling the ENB entirely can give you anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Aequinoctium](#enb-aequinoctium)) is rather performance intensive. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
+This should always be the first thing you tweak. Disabling the ENB entirely can give you anything from 20 to >70 FPS. The ENB this Modlist comes with (see [Audio and Weather](#audio-and-weather)) is rather performance intensive. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
 
 - `Bloom`: Can give you up to 3 FPS, will make light sources less bright
 - `DepthOfField`: Can give you up to 10 FPS, disabled by default and not really suited for gameplay
