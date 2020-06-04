@@ -344,10 +344,10 @@ Have fun!
 
 My Setup:
 
-- Ryzen 3700x
-- 1080ti
+- Ryzen 2700x
+- 2080 Super
 - 32GB DDR4-3200 RAM (CL 14)
-- Game and MO2 running on a Samsung 970 EVO Plus M.2 NVME SSD
+- Game and MO2 running on an M.2 NVME SSD
 
 ### Tweaking the ENB
 
