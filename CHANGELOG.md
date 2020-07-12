@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [2.2.3: Mod Updates](#223-mod-updates)
   - [2.2.0: Update Installer](#220-update-installer)
   - [2.1.0: Mod Updates](#210-mod-updates)
   - [2.0.14: Mod Updates](#2014-mod-updates)
@@ -9,6 +10,70 @@
   - [2.0.11: Mod Updates](#2011-mod-updates)
   - [2.0.10: Mod Updates](#2010-mod-updates)
   
+## 2.2.3: Mod Updates
+
+**Released at**: `12.07.2020`
+
+**Info**:
+
+The installer broke due to Quick Loot so... Here we go.
+
+This update ***is not*** savefile safe.
+
+**Changes**:
+
+- Issues: Fixed
+  - [Faendal Black Face Bug](https://github.com/jdsmith2816/rge/issues/37)
+
+- Issues: Invalid
+  - [Installation failed (Invalid hash)](https://github.com/jdsmith2816/rge/issues/38)
+
+- Mods: Added
+  - Big Books
+  - Callous Dwemer Centurions
+  - Enchantments and Potions Work for NPCs
+  - Fixed Dragon Stalking Fix
+  - Papyrus Extender
+  - Spell Perk Item Distributor
+  - Strange Runes
+- Mods: Removed
+  - Hook Share
+  - Horns are Forever
+  - Quick Loot RE and Hook Share
+  - Mum's the Word
+  - Professor Benjamin Doon
+- Mods: Updated
+  - Arctic - Frost Effects Redux
+  - Audio Overhaul Skyrim
+  - Classic Sprinting Redone
+  - Daedra-tastic Rune Spells
+  - Dear Diary
+  - DynDOLOD
+  - ELFX Fixes
+  - Enhanced Landscapes - Oaks Standalone
+  - ESO Skyshards
+  - Hellish Hounds
+  - Invasion of Skyrim - The Force Awakens - Grand Admiral Thrawn
+  - Land of Vominheim
+  - More Dialogue Options
+  - moreHUD Inventory Edition
+  - Nethers Follower Framework
+  - Quick Loot RE
+  - Realistic Water Two
+  - Savage Wolves and Feral Foxes
+  - Serana Dialogue Add-On
+  - Skyrim 3D High Hrothgar Steps
+  - Skyrim Landscape and Water Fixes
+  - Skyrim Unbound Reborn
+  - Soulmancer Music Merge
+  - SSE Display Tweaks
+  - SSE Engine Fixes
+  - Tavern AI Fix
+  - The Elder Songs
+  - The Tools of Kagrenac
+  - Wicked Werewolves
+  - XP32 Maximum Skeleton Special Extended
+
 ## 2.2.0: Update Installer
 
 Ownership Transfer to DoubleDog
