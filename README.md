@@ -376,7 +376,10 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 To make changes such as switching from borderless windowed mode to exclusive full screen, edit the SSEDisplayTweaks.ini file in (RGEInstall Folder)\mods\RGE - Patches\SKSE\Plugins. This overrides the one in the SSE Display Tweaks folder. 
 
 In order to change the key used to lock-on to enemies open the console by pressing `, the button above tab and next to 1. 
-Enter the following command, replacing (scan code) with the corresponding number from this link: https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes
+Enter the following command, replacing (scan code) with the corresponding number from this link: 
+
+https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes
+
 setlockonvar uhotkey (scan code)
 
 # Removing the Modlist
