@@ -373,6 +373,12 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 - `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
+To make changes such as switching from borderless windowed mode to exclusive full screen, edit the SSEDisplayTweaks.ini file in (RGEInstall Folder)\mods\RGE - Patches\SKSE\Plugins. This overrides the one in the SSE Display Tweaks folder. 
+
+In order to change the key used to lock-on to enemies open the console by pressing `, the button above tab and next to 1. 
+Enter the following command, replacing (scan code) with the corresponding number from this link: https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes
+setlockonvar uhotkey (scan code)
+
 # Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
