@@ -117,8 +117,9 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD, as should the list install location.
 
 1. Open Wabbajack
-1. Load the Modlist from Disk
-1. Adjust the download and installation paths
+1. Click Browse Modlists and find RGE and press the download button.
+1. Set Installation Location to where you wish to install the list, which should not be your Skyrim folder or a folder that already has other things in it. This should preferably be a blank folder on the root of your drive, such as F:\RGE if installing it to your F drive. 
+1. Set Download Location to where you want mod archives to be, by default it would be a folder named "Downloads" in the list's installation folder. 
 1. Click the Go/Begin button
 1. Wait for Wabbajack to finish
 
