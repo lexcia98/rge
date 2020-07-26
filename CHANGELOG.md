@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [2.2.4: Mod Updates](#224-mod-updates)
   - [2.2.3: Mod Updates](#223-mod-updates)
   - [2.2.0: Update Installer](#220-update-installer)
   - [2.1.0: Mod Updates](#210-mod-updates)
@@ -9,6 +10,39 @@
   - [2.0.12: Mod Updates](#2012-mod-updates)
   - [2.0.11: Mod Updates](#2011-mod-updates)
   - [2.0.10: Mod Updates](#2010-mod-updates)
+  
+
+## 2.2.4 Mod Updates
+
+**Released at**: `26.7.2020`
+
+**Info**: 
+
+Updated to change weather mod and ENB, also fixed Fellburg fix in previous extremely minor update between this and 2.2.3.
+
+This update ***is not*** savefile safe. 
+ 
+**Changes**:
+
+ - Mods Added:
+   - Obsidian Weather
+   - Nyclix's ENB-Reshade
+   - HQ Tomato 
+   - Collision Optmizations
+
+ - Mods Removed:
+   - Picturesque ENB and Weather: Replaced with Obsidian Weathers and Nyclix's ENB-Reshade
+   - Obsidian Mountain Fogs: Replaced with Obsidian Weathers
+   - Archery Gameplay Overhaul
+
+ - Mods Updated:
+   - SSE Engine Fixes
+   - Serena Dialogue Add-on
+   - Misc. Retexture Project
+
+ - Mods Changed:
+   - Spellsiphon Bound Bow assigned as Short Bow for SkyRe perks.
+   - Ensured SkyRe perks matched up with intended Special Edition Followers perks.
   
 ## 2.2.3: Mod Updates
 
