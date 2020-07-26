@@ -17,11 +17,11 @@
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
+    - [Install Reshade](#install-reshade)
     - [Copy Game Folder Files](#copy-game-folder-files)
 - [Updating](#updating)
 - [Noteworthy Mods](#noteworthy-mods)
   - [Combat - Melee](#combat---melee)
-  - [Combat - Archery](#combat---archery)
   - [Combat - Magic](#combat---magic)
   - [Skills, Perks and More](#skills-perks-and-more)
   - [Quest and Encounter Mods](#quest-and-encounter-mods)
@@ -106,15 +106,15 @@ Start the game and exit once you're in the main menu.
 
 ### Preparations
 
-Let's get to the actual installation. Grab the latest release of RGE from [the release tab](https://github.com/jdsmith2816/rge/releases).
+Let's get to the actual installation. Grab the latest release of RGE from the Browse Modlists page in the Wabbajack app.
 
-Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder (the _working folder_) near the root level of your drive like `C:/Wabbajack`.
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
 ### Downloading and Installing
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD, as should the list install location.
 
 1. Open Wabbajack
 1. Load the Modlist from Disk
@@ -139,6 +139,13 @@ This can happen when I update the modlist. Check if a new update is available an
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
 ## Post-Installation
+
+### Install Reshade
+
+If you plan to use the default ENB included with this folder, follow these instructions for installing Reshade and the needed things from it.
+
+"Download the latest [Reshade](https://reshade.me/) and follow the instructions to install. Be sure to select SkyrimSE.exe and select dx10/11 as the option. When asked what shaders to install just tick every box as I use a number from different sources and this will ensure you don't miss any. On the final page " Legacy shaders' individually tick every box as I use a number of them!"
+Taken from Nyclix's ENB-Reshade Nexus page. 
 
 ### Copy Game Folder Files
 
@@ -168,9 +175,6 @@ We use The Ultimate Dodge Mod for all of our fancy dodging needs as the first pe
 
 A heavily modified version of [Rogue-like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) handles NPC AI, some new combat mechanics and a curated set of new monsters.
 
-## Combat - Archery
-
-Can't have a setup without [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [Archery Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/13782)
 
 ## Combat - Magic
 
@@ -396,6 +400,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Frenchy - Thanks for the great work on the Linkle preset!
 - Forgotten God and Frenchy - Thanks for the great work on the logo and main menu replacer!!
+- Cal - For providing his Collision Optimization mod to help fix performance issues when looking at specific objects.
 
 # Contact
 
