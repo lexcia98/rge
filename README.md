@@ -19,6 +19,7 @@
   - [Post-Installation](#post-installation)
     - [Install Reshade](#install-reshade)
     - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Starting the Game](#starting-the-game)
 - [Updating](#updating)
 - [Noteworthy Mods](#noteworthy-mods)
   - [Combat - Melee](#combat---melee)
@@ -153,6 +154,10 @@ Taken from Nyclix's ENB-Reshade Nexus page.
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
 Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+
+### Starting the game
+
+To start the game after installing the list go to the folder you have installed the list to and launch ModOrganizer.exe. Select "The Game (AKA SKSE)" from the drop down menu next to the run button and click the run button. 
 
 # Updating
 
