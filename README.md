@@ -153,7 +153,7 @@ Taken from Nyclix's ENB-Reshade Nexus page.
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
-Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+Copy the all of the files from the `Game Folder Files` directory inside your RGE install folder into your game folder.
 
 ### Starting the game
 
