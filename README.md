@@ -194,7 +194,7 @@ Relics of Hyrule and Grand Admiral Thrawn both include additional unique spells 
 
 [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds religion and worship.
 
-Perk overhauls. For this setup I used [Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/14180). This perk mod is a comprehensive overhaul for Skyrim. We are using a customized version of the perks (helmless), combat and enemy scaling modules. The SkyRe Guide should be consulted if you want more information. All 'mechanics' and 'content' stuff is still up to date.
+Perk overhauls. For this setup I used [Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/17915). This perk mod is a comprehensive overhaul for Skyrim. We are using a customized version of the perks (helmless), combat and enemy scaling modules. The SkyRe Guide should be consulted if you want more information. All 'mechanics' and 'content' stuff is still up to date.
 
 If you are are into Spellblade, Arcane Archery, or just magery in general then [Spell Siphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) is probably the best thing you've never experienced before. Be sure to watch the tutorial video... it's worth it.
 
