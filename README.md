@@ -35,6 +35,7 @@
   - [CGO](#cgo)
   - [Follower Framework](#follower-framework)
   - [Sky UI](#sky-ui)
+  - [Skyrim Unbound Reborn](#skyrim-unbound-reborn)
 - [Character Creation](#character-creation)
 - [Getting Started in Game](#getting-started-in-game)
 - [FAQ](#faq)
@@ -309,6 +310,9 @@ Either click 'Begin Your Adventure' or close the MCM menus and hit the 'enter' k
 - Leaning
   - Lean Multiplier (1st Person) 0.25 (Any value is fine)
   - Lean Multiplier (3rd Person) 0.25 (Any value is fine)
+ 
+- Unlocked movement
+  - Disable all options if using Spellsiphon to have imbued ward work with power attacks.
 
 ## Follower Framework
 
@@ -322,6 +326,12 @@ Either click 'Begin Your Adventure' or close the MCM menus and hit the 'enter' k
 - Advanced
   - SWF Version Checking
   - Map Menu [ ]
+
+## Skyrim Unbound Reborn
+This is the alternate start mod used by this list and you configure it while floating above Helgen after starting a new game. Set Dragon Souls based on if you want to be the Dragonborn or not, dragon delay based on how you want the game to determine when dragons should spawn, etc. 
+  To quickly set the type of starting equipment you have, click presets and select one of the options. You will be told what you'll start with. This is separate from where you'll start. 
+  
+Once configured, you can exit out of pause menus and press Enter to move on to the game. 
 
 
 # Character Creation
