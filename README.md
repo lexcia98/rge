@@ -51,6 +51,9 @@
 # Preamble
 ![rge](extra/rge.png)
 
+ This mod list is not made by the RoH author and support for it can be found on the Wabbajack Discord server. Please, do not contact the RoH author or ask for support for the GAT Edition modlist on his Discord server. 
+ https://discord.gg/wabbajack
+
 The goal of this modlist is to be something fun and different rather than
 your 100th enai-survival-rim playthrough.
 Please check your immershun at the door and embrace that c0da makes it canon!
