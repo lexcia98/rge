@@ -1,7 +1,12 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [2.2.4: Mod Updates](#224-mod-updates)
+  - [2.3: Update All the Things](#23-update-all-the-thingsnot-savefile-safe)
+    - [Mods Added](#mods-added)
+    - [Mods Removed](#mods-removed)
+    - [Mods Updated](#mods-updated)
+    - [Patcher Output Updates](#patcher-output-updates)
+  - [2.2.4 Mod Updates](#224-mod-updates)
   - [2.2.3: Mod Updates](#223-mod-updates)
   - [2.2.0: Update Installer](#220-update-installer)
   - [2.1.0: Mod Updates](#210-mod-updates)
@@ -11,6 +16,82 @@
   - [2.0.11: Mod Updates](#2011-mod-updates)
   - [2.0.10: Mod Updates](#2010-mod-updates)
   
+## 2.3: [Update All the Things](Not Savefile Safe)
+
+This release is all about hygiene... The intent is to get everything updated to the latest versions in preparation for other things coming down the pipeline.
+
+Unfortunately some of these updates are not actually savefile safe unless you undertake extensive save cleaning which isn't supported in #rge-support
+
+I would not update to this version if you're already in an ongoing play through as the benefits are relatively minor.
+
+### Mods Added
+
+- Dear Diary - Dwemer Readius [1.1.2](USER INTERFACE)
+- XP32 Maximum Skeleton Special Extended - Fixed Scripts [1.0](ANIMATED BONES)
+
+### Mods Removed
+
+- Constellations Redrawn [1.0](USER INTERFACE)
+- FiraCode for Console UI [A](USER INTERFACE)
+- Majestic Mountains - Bugfix Compilation Patch [1.0.5](LANDSCAPE)
+- Smaller Vanilla Cursors [1.0](USER INTERFACE)
+- Sovngarde - Mists Font Replacer [8.9](USER INTERFACE)
+
+### Mods Updated
+
+- .NET Script Framework [14.0](SKSE MODS)
+- Better Dynamic Majestic Mountains [10](LANDSCAPE)
+- Blended Roads Redone [1.5.1](LANDSCAPE)
+- Classic Sprinting Redone [2.1](SKSE MODS)
+- Copy and Paste in Console [1.0.1](SKSE MODS)
+- Dear Diary [3.0](USER INTERFACE)
+- Dwemer Spectres [3.6.1](QUESTS ENCOUNTERS AND NEW CREATURES)
+- Enchantments and Potions Work for NPCs [1.0.1](FIXES)
+- Faction Economy Complete [1.3](GAMEPLAY)
+- Growl - Werebeasts of Skyrim [2.3.0](GAMEPLAY)
+- Guard Dialogue Overhaul [2.16](DIALOGUE)
+- Hammet's Dungeon Packs [2.01](QUESTS ENCOUNTERS AND NEW CREATURES)
+- High Poly Project [4.95](VISUALS - BASE)
+- Improved College Entry - Questline Tweaks [2.8](QUESTS ENCOUNTERS AND NEW CREATURES)
+- Improved Companions - Questline Tweaks [1.1](QUESTS ENCOUNTERS AND NEW CREATURES)
+- Improved Traps [2.4](GAMEPLAY)
+- JContainers [4.1.13](UTILITIES)
+- Land of Vominheim [1.11](QUESTS ENCOUNTERS AND NEW CREATURES)
+- Landscape Fixes for Grass Mods [4.8](LANDSCAPE)
+- Lucien [1.6.1](FOLLOWERS)
+- moreHUD [4.0.0.5Beta](USER INTERFACE)
+- moreHUD Inventory Edition [1.0.18](USER INTERFACE)
+- Morskom Estate [1.2](PLAYER HOMES)
+- Non-Exploitable Crossbow Reloading [1.3](GAMEPLAY)
+- Open Face Guard Helmets [2.2](VISUALS - Equippables)
+- Papyrus Extender [4.3](SKSE MODS)
+- Project Clarity - Armors [2.4](OPTIMIZED AND UPSCALED BASEGAME TEXTURES)
+- Realistic Water Two [3.1](LANDSCAPE)
+- Refracting Ice Form Debris [2.0](LIGHTING & EFFECTS)
+- Rudy HQ - Miscellaneous [1.02](VISUALS - CLUTTER)
+- Serana Dialogue Add-On [2.3.4](DIALOGUE)
+- Serana's Hood Fix [3.0.1](FIXES)
+- Simple Horse [1.21](GAMEPLAY)
+- Skyrim Landscape and Water Fixes [5.9](LANDSCAPE)
+- Spell Perk Item Distributor [4.3](SKSE MODS)
+- Spellsiphon [5.5](GAMEPLAY)
+- SSE Display Tweaks [0.4.9-1](SKSE MODS)
+- Storm Lightning [1.4.9](WEATHER)
+- Strange Runes [3.5.1](LIGTING & EFFECTS)
+- The Elder Songs [3.1.2](SOUNDS)
+- The Path of Transcendence - Lichdom [3](GAMEPLAY)
+- The Tools of Kagrenac [1.58](QUESTS ENCOUNTERS AND NEW CREATURES)
+- Unofficial Skyrim Special Edition Patch [4.2.4b](FIXES)
+- Visceral Combat and Movement [2.23](GAMEPLAY)
+- WACCF - Armor and Clothing Extension [1.2](FIXES)
+- XP32 Maximum Skeleton Special Extended [4.8](ANIMATED BONES)
+
+### Patcher Output Updates
+
+- RGE - DynDOLOD Output
+- RGE - Nemesis Output
+- RGE - TexGen Output
+- RGE - xLODGen Output
 
 ## 2.2.4 Mod Updates
 
