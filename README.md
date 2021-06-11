@@ -150,21 +150,24 @@ https://www.nexusmods.com/skyrimspecialedition/mods/3352/
 Download the Reshade preset from here and put the preset into your Skyrim SE folder.
 
 https://reshade.me/
-Download the latest Reshade from here and then follow the Instructions taken from the Nyclix ENB page. 
+Download the latest Reshade from here and then follow the instructions taken from the Nyclix ENB page, relevant parts inserted here. 
 
 
 " Download the latest Reshade﻿ and open and select SkyrimSE.  Select d310/11 as your renderer. When it asks which packages you want to install UNTICK ALL and then select the final one in the list, Legacy Standard Effects. On the next screen hit uncheck all and then select the followering shaders as this is all this preset uses. Ambient Light, Adaptive Sharpen, Clarity, Curves, High Pass Sharpen, Gaussian Blur, and Vibrance."
-"Open Enbseries.ini located in your root skyrim se directory and edit EnablePostPassShader=true to false."
-"Open the game - Please note ENB takes around 20 seconds to load to that's normal. Once in press HOME, and follow the prompts, selecting my preset from the drop down menu. 
-All effects are on by default. Press DEL to toggle reshade on and off and SHIFT + f12 to toggle ENB."
-Taken from Nyclix's ENB-Reshade Nexus page. 
-The preset mentioned is the file "Nyclix's ENB.ini"
+
 
 ### Copy Game Folder Files
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
 Copy the all of the files from the `Game Folder Files` directory inside your RGE install folder into your game folder.
+
+Instructions taken from the Nyclix ENB page. 
+"Open Enbseries.ini located in your root skyrim se directory and edit EnablePostPassShader=true to false."
+"Open the game - Please note ENB takes around 20 seconds to load to that's normal. Once in press HOME, and follow the prompts, selecting my preset from the drop down menu. 
+All effects are on by default. Press DEL to toggle reshade on and off and SHIFT + f12 to toggle ENB."
+Taken from Nyclix's ENB-Reshade Nexus page. 
+The preset mentioned is the file "Nyclix's ENB.ini"
 
 ### Starting the game
 
