@@ -33,7 +33,6 @@
   - [New Equippables](#new-equippables)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [CGO](#cgo)
-  - [Follower Framework](#follower-framework)
   - [Sky UI](#sky-ui)
   - [Skyrim Unbound Reborn](#skyrim-unbound-reborn)
 - [Character Creation](#character-creation)
@@ -325,12 +324,6 @@ Either click 'Begin Your Adventure' or close the MCM menus and hit the 'enter' k
 - Unlocked movement
   - Disable all options if using Spellsiphon to have imbued ward work with power attacks.
 
-## Follower Framework
-
-- System
-  - Load from File
-  - Hotkeyed Abilities
-    - Customize as you wish
 
 ## Sky UI
 
