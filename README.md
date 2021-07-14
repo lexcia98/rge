@@ -360,8 +360,6 @@ Have fun!
 
 # FAQ
 
-- ITSPS_Full failed to download
-  - Download [Insanity's Texture Pack](http://tesalliance.org/forums/index.php?/files/file/1098-insanitys-texture-pack-skyrim/) manually here and place it in the downloads folder then restart the installation process.
 - I play on 21:9 resolution but the UI looks weird?
   - Search `21x9` in MO2 then enable all of them.
 - I'm on a controller and the controls are weird?
@@ -371,6 +369,15 @@ Have fun!
   - Alternatively... disable the `RGE - Controlmap` mod and reset your controls in the main skyrim controls menu then configure everything as you like from scratch.
 - My character is stuck dodging
   - This happens occasionally on load but rarely in gameplay. Press 'G' to fix it.
+- Spellsiphon looks pretty complicated, could you describe the basics?
+  - Basically when you use the new Bind shout from the Spellsiphon book, you equip the new spells draw and ward. Ward acts as a light, a shield in combat, and a healing spell. Draw acts as your offensive spell and does a small amount of damage. After using it on something for a short time, it changes to 1 of 3 spells depending on what you used it on. Living things (and constructs) give you the Life element spell that does lightning damage, corpses give you Death element that does cold damage, and everything else gives World, which does fire damage. By swapping between elements as you go you build up a buff that increases damage done. These are the basics.
+  - [Th Spellsiphon manual](https://docs.google.com/document/d/18Y3fjwNQ8t0uAIkr4fuH0CLliyindpO3LEResV4I9PM/edit) does an excelent job explaining the exact mechanics in more detail and there is in an ingame tutorial for it as well. 
+- Why am I floating over Helgen after hitting new game?
+  - This is the start of the mod Skyrim Unbound Reborn. Open the main menu and go to the MCM settings for it and you can set things like where you'll start, what items you start with, your starting spells, etc. Of specific note is the Dragon Souls option. Set this to Dragonborn if you want to be the dragonborn and get dragon souls from killing them.
+- Where are the dragons?
+  - By default they're on a delay of 7 to 21 ingame days. You can customize that in the Skyrim Unbound MCM.
+- How do I start Invasion of Skyrim?
+  - Talk to resistance members and ask to join, you'll be invited to their base at level 15.
 
 # Tweaking Performance
 
