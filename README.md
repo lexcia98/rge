@@ -435,6 +435,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - Frenchy - Thanks for the great work on the Linkle preset!
 - Forgotten God and Frenchy - Thanks for the great work on the logo and main menu replacer!!
 - Cal - For providing his Collision Optimization mod to help fix performance issues when looking at specific objects.
+- Ac3s - For constructing the amazing Tel Nalta house mod. 
 
 # Contact
 
