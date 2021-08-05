@@ -270,8 +270,6 @@ The priority looks like this (similar to MO2, the ones at the bottom overwrites 
 
 [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
-[Song of the Green - Auri Follower](https://www.nexusmods.com/skyrimspecialedition/mods/11278) is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition. Auri, a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
-
 [The Pale Lord](https://www.nexusmods.com/skyrimspecialedition/mods/21003) is a uniquely designed vampire follower with both a custom appearance featuring claws and a black textured outfit as well as scripted powers which include the ability to transform into a swarm of bats as well as being able to assume a monstrous War-form.
 
 In addition to the above custom followers all of the vanilla followers have been overhauled by [Special Edition Followers](https://www.nexusmods.com/skyrimspecialedition/mods/7622) to fill unique roles as combat companions.
