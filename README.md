@@ -349,8 +349,9 @@ Have fun!
 
 - I play on 21:9 resolution but the UI looks weird?
   - Search `21x9` in MO2 then enable all of them.
-- I'm on a controller and the controls are weird?
-  - Disable `Better Container Controls`
+- I'm on a controller and the controls are weird?/I want to play on a Controller
+  - To enable controller support, open MO2's INI editor for Skyrimprefs.ini and change bGamepadEnable=0 to bGamepadEnable=1. 
+  - Disable `Better Container Controls` if the controls feel weird.
   - Reference [The Ultimate Control Scheme](https://www.nexusmods.com/skyrimspecialedition/mods/29381) for controller layout.
   - Due to TUDM only supporting 4way dodging on gamepad we use [antimicro](https://sourceforge.net/projects/antimicro.mirror/) to enable 8way dodging.  Download it and [setup your left stick to output WASD](https://i.imgur.com/hSgdwQc.png).
   - Alternatively... disable the `RGE - Controlmap` mod and reset your controls in the main skyrim controls menu then configure everything as you like from scratch.
