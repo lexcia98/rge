@@ -306,8 +306,6 @@ Either click 'Begin Your Adventure' or close the MCM menus and hit the 'enter' k
   - Lean Multiplier (1st Person) 0.25 (Any value is fine)
   - Lean Multiplier (3rd Person) 0.25 (Any value is fine)
  
-- Unlocked movement
-  - Disable all options if using Spellsiphon to have imbued ward work with power attacks.
 
 ## Immersive HUD
 
