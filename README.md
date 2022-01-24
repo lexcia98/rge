@@ -67,13 +67,6 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-### Skyrim Anniversary Edition and Wabbajack
-Wabbajack modlists are not compatible with Skyrim Anniversary Edition and there is no estimated timeframe for when this may change.
-
-The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
-
-In order to use Wabbajack modlists, you must not update your copy of Skyrim Special Edition or use the AE downgrade patcher:
-https://www.nexusmods.com/skyrimspecialedition/mods/57618
 
 To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
 
