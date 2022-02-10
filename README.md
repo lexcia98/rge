@@ -359,6 +359,8 @@ Have fun!
   - By default they're on a delay of 7 to 21 ingame days. You can customize that in the Skyrim Unbound MCM.
 - How do I start Invasion of Skyrim?
   - Talk to resistance members and ask to join, you'll be invited to their base at level 15.
+- I have strange striped shadows on stuff or deep shadows on faces!
+  - If you experience strange shadows on character faces or other things, turn off bSAOEnable=1 in the SkyrimPrefs.ini file in your RGE install's profiles folder.  Alternatively, you can also find MO2's ini editor in the dropdown list that looks like puzzle pieces and use that to change it. Or go to the tools folder of your install and run BethINI while MO2 is closed and change it there.
 
 # Tweaking Performance
 
@@ -383,7 +385,7 @@ This should always be the first thing you tweak. Disabling the ENB entirely can 
 I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
 
 - `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
-- `Ambient Occlusion`: Highly recommended to leave this at `None`. The ENB this Modlist comes with, uses the ENB SAO which is 10x better and performance friendly than base game SAO.
+- `Ambient Occlusion`: Highly recommended to leave this at `None`. The ENB this Modlist comes with, uses the ENB SAO which is 10x better and performance friendly than base game SAO. This is the source of strange shadows mentioned in the FAQ.
 - `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
