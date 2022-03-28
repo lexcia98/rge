@@ -1,5 +1,3 @@
-![Modlist Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Frge%2Fbadge.json)
-
 # Relics of Hyrule - GAT Edition
 - [Relics of Hyrule - GAT Edition](#relics-of-hyrule---gat-edition)
 - [Preamble](#preamble)
