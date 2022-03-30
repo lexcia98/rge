@@ -55,6 +55,8 @@ This modlist primarily revolves around [Relics of Hyrule](https://www.nexusmods.
 
 Combat is mostly handled by [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296), [CGO](https://www.nexusmods.com/skyrimspecialedition/mods/33767) and [SkyRe](https://www.nexusmods.com/skyrimspecialedition/mods/17915). Enemy AI and new monsters are provided by [RLE](https://www.nexusmods.com/skyrimspecialedition/mods/23872) while both player and npc dodging come from The Ultimate Dodge Mod.
 
+This modlist does not require downgrading Skyrim from the latest version. 
+
 # Installation
 
 ## Pre-Installation
@@ -386,6 +388,10 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 - `Ambient Occlusion`: Highly recommended to leave this at `None`. The ENB this Modlist comes with, uses the ENB SAO which is 10x better and performance friendly than base game SAO. This is the source of strange shadows mentioned in the FAQ.
 - `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
+
+If you experience strange shadows on character faces, turn off bSAOEnable=1 in the SkyrimPrefs.ini file in your RGE install's profiles folder.  Alternatively, you can also find MO2's ini editor in the dropdown window that looks like puzzle pieces and use that to change it. Or go to the tools folder of your install and run BethINI while MO2 is closed and change it there.
+
+This setting may change if you use BethINI to change your settings to one of its presets to try and get better performance.
 
 To make changes such as switching from borderless windowed mode to exclusive full screen, edit the SSEDisplayTweaks.ini file in (RGEInstall Folder)\mods\RGE - Patches\SKSE\Plugins. This overrides the one in the SSE Display Tweaks folder. 
 
