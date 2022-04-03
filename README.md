@@ -146,7 +146,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Post-Installation
 
-With the introduction of Stock Game, installing an ENB and Reshade preset yourself is no longer needed and instead the Nyclix preset is preinstalled in the stock game folder. If you wish to change ENB preset or 
+With the introduction of Stock Game, installing an ENB and Reshade preset yourself is no longer needed and instead the Nyclix preset is preinstalled in the stock game folder. If you wish to change ENB preset or Reshade preset, put the appropriate files in the Stock Game folder. In order to avoid a visual bug that sometimes occurs when loading into the game from the main menu the Reshade preset is turned off by default and can be activated by pressing the Insert key once ingame. 
 
 ### Starting the game
 
