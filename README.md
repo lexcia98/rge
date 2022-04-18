@@ -134,7 +134,17 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
+Should this happen it is most likely files from ModDB when trying to install RGE and the exact names of them can be found in your log file or the window in the lower right corner of Wabbajack. 
+
+Should you get a message about being unable to download Skyrim Realistic Overhaul please go to to the following link and download the parts mentioned when you tried to install.
+https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads
+
+Other files it can happen on are any that are particulary large, such as Voices EN  - Part 2 or part 1 from the Unofficial High Definition Audio Project, Kart_CSSET_Overwrite from Cleaned Skyrim SE Textures (the pre 1.6 version), both of these are linked below. 
+
+In order to determine the correct page for the file failing to download look at the Wabbajack log file and find the file name. As an example, for the voices file it would be "Downloading Voices EN - Part 1-18115-0-1.7z." The 1 is from part 1 and can be ignored while the 18115 is the mod ID on the Nexus, hence it being in the Nexus link to the page given below. You can use the ID to locate the mod page by replacing the number with the relevant mod ID and finding the correct file in the downloads section. Should you require more help you can find it on the Animoculary Discord server, https://discord.gg/theanimonculory. 
+
+https://www.nexusmods.com/skyrimspecialedition/mods/18115 - Unofficial High Definition Audio Project
+https://www.nexusmods.com/skyrimspecialedition/mods/38775 - Cleaned Skyrim SE Textures
 
 **x is not a whitelisted download**:
 
@@ -415,7 +425,7 @@ You can just remove the MO2 folder and be done with it.
 
 # Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/jdsmith2816/rge/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Animonculory Discord](https://discord.gg/theanimonculory), I would advise checking the [Issues](https://github.com/lexcia98/rge/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 # Contributing
 
