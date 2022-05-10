@@ -1,7 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [2.3.7: Mod updates, not save file safe.]
+  - [2.3.7: Mod updates, not save file safe.](#237-mod-updates-not-save-file-safe)
   - [2.3: Update All the Things](#23-update-all-the-thingsnot-savefile-safe)
   - [2.2.4 Mod Updates](#224-mod-updates)
   - [2.2.3: Mod Updates](#223-mod-updates)
