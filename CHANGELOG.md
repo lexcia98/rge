@@ -1,7 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [2.3.7: Mod updates, not save file safe.](#237-mod-updates-not-save-file-safe)
+  - [2.3.7: Mod updates, not save file safe](#237-mod-updates-not-save-file-safe)
   - [2.3: Update All the Things](#23-update-all-the-thingsnot-savefile-safe)
   - [2.2.4 Mod Updates](#224-mod-updates)
   - [2.2.3: Mod Updates](#223-mod-updates)
@@ -13,7 +13,7 @@
   - [2.0.11: Mod Updates](#2011-mod-updates)
   - [2.0.10: Mod Updates](#2010-mod-updates)
   
-## 2.3.7
+## 2.3.7: Mod updates, not save file safe
 While this mod does update a number of things and isn't save file safe I wouldn't consider it to be major enough to be worth incrementing to 2.4. Future updates will be properly cateloged on here. Sorry. 
 ### Added Mods
 Added Scrambled Bugs
