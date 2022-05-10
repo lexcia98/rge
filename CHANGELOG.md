@@ -1,11 +1,8 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [2.3.7: Mod updates, not save file safe.]
   - [2.3: Update All the Things](#23-update-all-the-thingsnot-savefile-safe)
-    - [Mods Added](#mods-added)
-    - [Mods Removed](#mods-removed)
-    - [Mods Updated](#mods-updated)
-    - [Patcher Output Updates](#patcher-output-updates)
   - [2.2.4 Mod Updates](#224-mod-updates)
   - [2.2.3: Mod Updates](#223-mod-updates)
   - [2.2.0: Update Installer](#220-update-installer)
@@ -15,6 +12,39 @@
   - [2.0.12: Mod Updates](#2012-mod-updates)
   - [2.0.11: Mod Updates](#2011-mod-updates)
   - [2.0.10: Mod Updates](#2010-mod-updates)
+  
+## 2.3.7
+While this mod does update a number of things and isn't save file safe I wouldn't consider it to be major enough to be worth incrementing to 2.4. Future updates will be properly cateloged on here. Sorry. 
+### Added Mods
+Added Scrambled Bugs
+
+### Updated mods
+Growl - Werebeasts of Skyrim: 2.3->3.0
+T3nd0's Skyrim SE Redone 1.3.08SE->1.3.12SE
+Mundus - A Standing Stone Overhaul: 1.4->1.7
+Class Overhaul Re-Imagined (SkyRem - Cori): 5.2.7->5.2.8
+Strange Runes: 3.5->3.7.3
+The Tools of Kagrenac: 1.58->1.59
+The Choice is Yours: 2.0->2.4
+Spellsiphon: 5.16->5.17
+Vigilant - Voiced: 3.2->3.2.2
+Skyrim Unbound Reborn: 1.5.6->1.8 
+Dwemer Specters: 3.6.1->3.7.1
+Weapon Armor Clothing and Clutter Fixes: 2.1->2.8
+Armor and Clothing Extension: 1.2->1.3
+Serena's Hood fix: 3.0.1->3.1
+Tavern AI Fix: 1.1d->1.2
+Darkend - Enemy Rebalance: 1.6->1.7
+Papyrus Extender: 4.3->5.0.3
+Remember Lockpick Angle - Updated: 2.0->4.1
+Spell Perk Item Distributor: 4.3->5.2
+SSE Display Tweaks: 0.4.9->0.5.9
+Quests are in Skyrim: 1.2->1.3
+.NET Script Framework: 14->18
+Actor Limit Fix: 2->5
+Bug Fixes SSE: 2->6.
+Classic Sprinting Redone: 2.1->2.2
+  
   
 ## 2.3: [Update All the Things](Not Savefile Safe)
 
