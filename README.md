@@ -141,7 +141,7 @@ https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads
 
 Other files it can happen on are any that are particulary large, such as Voices EN  - Part 2 or part 1 from the Unofficial High Definition Audio Project, Kart_CSSET_Overwrite from Cleaned Skyrim SE Textures (the pre 1.6 version), both of these are linked below. 
 
-In order to determine the correct page for the file failing to download look at the Wabbajack log file and find the file name. As an example, for the voices file it would be "Downloading Voices EN - Part 1-18115-0-1.7z." The 1 is from part 1 and can be ignored while the 18115 is the mod ID on the Nexus, hence it being in the Nexus link to the page given below. You can use the ID to locate the mod page by replacing the number with the relevant mod ID and finding the correct file in the downloads section. Should you require more help you can find it on the Animoculary Discord server, https://discord.gg/theanimonculory. 
+In order to determine the correct page for the file failing to download look at the Wabbajack log file and find the file name. As an example, for the voices file it would be "Downloading Voices EN - Part 1-18115-0-1.7z." The 1 is from part 1 and can be ignored while the 18115 is the mod ID on the Nexus, hence it being in the Nexus link to the page given below. You can use the ID to locate the mod page by replacing the number with the relevant mod ID and finding the correct file in the downloads section. Should you require more help you can find it on the Animoculary Discord server, https://discord.gg/DffHKcszfg. 
 
 https://www.nexusmods.com/skyrimspecialedition/mods/18115 - Unofficial High Definition Audio Project
 https://www.nexusmods.com/skyrimspecialedition/mods/38775 - Cleaned Skyrim SE Textures
