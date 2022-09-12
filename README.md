@@ -327,6 +327,10 @@ This is the alternate start mod used by this list and you configure it while flo
   
 Once configured, you can exit out of pause menus and press Enter to move on to the game. 
 
+## Sneaking and controllers
+
+- If using a controller go into the MCM for The Ultimate Dodge Mod, enable gamepad compatibility and select sneak style 1 or 2. Sneak Style one is that the sneak button dodges when a weapon is drawn and sneaks when one isn't drawn. Two is that it sneaks if you press it while not moving and dodges if you press it while moving.
+
 
 # Character Creation
 
@@ -369,6 +373,8 @@ Have fun!
   - By default they're on a delay of 7 to 21 ingame days. You can customize that in the Skyrim Unbound MCM.
 - How do I start Invasion of Skyrim?
   - Talk to resistance members and ask to join, you'll be invited to their base at level 15.
+- How do I start the main story of Skyrim?
+  - To start the main story kill and absorb the soul of your first dragon. Should you not have set the Dragonsouls option to Dragonborn as told to in the readme, go to the Skyrim Unbound Reborn MCM. Enable the Debug Mode (on the last MCM page) and use the Dragon Souls option and change it to Dragonborn.. Then disable the Debug Mode again. You can tell if this needs to be done by seeing if you absorb a soul from the first dragon you kill.  
 - I have strange striped shadows on stuff or deep shadows on faces!
   - If you experience strange shadows on character faces or other things, turn off bSAOEnable=1 in the SkyrimPrefs.ini file in your RGE install's profiles folder.  Alternatively, you can also find MO2's ini editor in the dropdown list that looks like puzzle pieces and use that to change it. Or go to the tools folder of your install and run BethINI while MO2 is closed and change it there.
 
