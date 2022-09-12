@@ -32,6 +32,7 @@
   - [Immersive HUD](immersive-hud)
   - [Sky UI](#sky-ui)
   - [Skyrim Unbound Reborn](#skyrim-unbound-reborn)
+  - [Sneaking and controllers](Sneaking-and-controllers)
 - [Character Creation](#character-creation)
 - [Getting Started in Game](#getting-started-in-game)
 - [FAQ](#faq)
