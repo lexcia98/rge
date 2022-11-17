@@ -432,7 +432,7 @@ You can just remove the MO2 folder and be done with it.
 
 # Contact
 
-While I'm always available on the [Animonculory Discord](https://discord.gg/theanimonculory), I would advise checking the [Issues](https://github.com/lexcia98/rge/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+While I'm always available on the [Animonculory Discord](https://discord.gg/DffHKcszfg), I would advise checking the [Issues](https://github.com/lexcia98/rge/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 # Contributing
 
